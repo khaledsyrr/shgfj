@@ -1,9 +1,3 @@
-
-
-
-
-              
-
 $(document).ready(function() {
     // DIMASHKHOST - تعديل النص أثناء الكتابة
     $(document).on('input', '.tbox', function() {
@@ -28,70 +22,12 @@ $(document).ready(function() {
     $(".btn.fr.btn-warning.fa.fa-paint-brush").hide();
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 $('.u-msg').each(function() {
     $(this).css({
         'max-height': 'none',
         'height': 'auto'
     });
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
 
 <!-- jQuery (إذا لم يكن موجوداً) -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -145,7 +81,7 @@ $('.u-msg').each(function() {
     background: linear-gradient(145deg, #d35400, #a84300); /* برتقالي فاخر */
     color: white !important;
 }
-</style>
+
 
 <!-- JavaScript لتطبيق التصميم على كل الأزرار -->
 <script>
